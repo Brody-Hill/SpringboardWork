@@ -1,0 +1,4 @@
+Beverage_category,Beverage,Beverage_prep,Calories, Total Fat (g),Trans Fat (g) ,Saturated Fat (g), Sodium (mg), Total Carbohydrates (g) ,Cholesterol (mg), Dietary Fibre (g), Sugars (g), Protein (g) ,Vitamin A (% DV) ,Vitamin C (% DV), Calcium (% DV) ,Iron (% DV) ,Caffeine (mg)
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,510,15,9.0,0.2,35,330,77,0,74,19.0,20%,4%,60%,2%,150.0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,460,10,7.0,0.2,15,340,90,2,84,7.0,6%,0%,15%,35%,145.0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,460,13,6.0,0.0,5,290,70,1,64,16.0,15%,2%,60%,20%,150.0
